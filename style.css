@@ -1,0 +1,50 @@
+.d {
+  transition: all 0.5s;
+  margin: 20px;
+}
+
+.divCss {
+  box-shadow: 10px 5px 5px rgb(200, 199, 199);
+  transform: scale(1, 1);
+  cursor: pointer;
+}
+.diplay {
+  display: inline !important;
+}
+
+form {
+  margin-top: 20px;
+}
+.selectClass {
+  display: inline;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.aTag:hover {
+  color: rgb(193, 75, 162) !important;
+}
+.ff {
+  margin-left: 2%;
+  margin-right: 3%;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(122, 77, 118);
+  padding: 10px;
+  margin-bottom: 20px;
+  color: yellow;
+  font-family: "Kenyan Coffee";
+  font-size: 2rem;
+}
+
+main {
+  padding: 20px;
+}
+header i {
+  font-size: 20px;
+  display: inline;
+}
